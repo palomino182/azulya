@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "328102",
+    "nombre": "CALLE 3",
+    "ruta": "301",
+    "orden": 5,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/328102/1"
+  },
+  {
+    "id": "330115",
+    "nombre": "TARMA",
+    "ruta": "301",
+    "orden": 18,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330115/1"
+  },
+  {
+    "id": "318031",
+    "nombre": "PARDO / R. PALMA",
+    "ruta": "301",
+    "orden": 36,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318031/1"
+  },
+  {
+    "id": "318032",
+    "nombre": "BERLIN",
+    "ruta": "301",
+    "orden": 37,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318032/1"
+  },
+  {
+    "id": "318033",
+    "nombre": "28 DE JULIO",
+    "ruta": "301",
+    "orden": 38,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318033/1"
+  },
+  {
+    "id": "318034",
+    "nombre": "LARCO",
+    "ruta": "301",
+    "orden": 39,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318034/1"
+  },
+  {
+    "id": "318035",
+    "nombre": "ARMENDARIZ / LARCOMAR",
+    "ruta": "301",
+    "orden": 40,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318035/1"
+  },
+  {
+    "id": "318036",
+    "nombre": "S. I. LOYOLA",
+    "ruta": "301",
+    "orden": 41,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318036/1"
+  },
+  {
+    "id": "318037",
+    "nombre": "LA PAZ / ARMENDARIZ",
+    "ruta": "301",
+    "orden": 42,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318037/1"
+  },
+  {
+    "id": "318038",
+    "nombre": "CHIPOCO",
+    "ruta": "301",
+    "orden": 43,
+    "distrito": "BARRANCO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318038/1"
+  },
+  {
+    "id": "318057",
+    "nombre": "CENTENARIO",
+    "ruta": "301",
+    "orden": 44,
+    "distrito": "BARRANCO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318057/1"
+  },
+  {
+    "id": "318039",
+    "nombre": "BALTA",
+    "ruta": "301",
+    "orden": 45,
+    "distrito": "BARRANCO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318039/1"
+  },
+  {
+    "id": "318040",
+    "nombre": "PLAZA BUTTERS",
+    "ruta": "301",
+    "orden": 46,
+    "distrito": "BARRANCO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318040/1"
+  },
+  {
+    "id": "318038",
+    "nombre": "CHIPOCO",
+    "ruta": "301",
+    "orden": 2,
+    "distrito": "BARRANCO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318038/2"
+  },
+  {
+    "id": "318043",
+    "nombre": "LAS ACACIAS / REDUCTO",
+    "ruta": "301",
+    "orden": 3,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318043/2"
+  },
+  {
+    "id": "318045",
+    "nombre": "NUÑEZ DE BALBOA",
+    "ruta": "301",
+    "orden": 4,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318045/2"
+  },
+  {
+    "id": "318046",
+    "nombre": "J. FANNING",
+    "ruta": "301",
+    "orden": 5,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318046/2"
+  },
+  {
+    "id": "318047",
+    "nombre": "28 DE JULIO",
+    "ruta": "301",
+    "orden": 6,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318047/2"
+  },
+  {
+    "id": "318048",
+    "nombre": "BENAVIDES",
+    "ruta": "301",
+    "orden": 7,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318048/2"
+  },
+  {
+    "id": "318049",
+    "nombre": "SCHELL",
+    "ruta": "301",
+    "orden": 8,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318049/2"
+  },
+  {
+    "id": "318050",
+    "nombre": "R. PALMA",
+    "ruta": "301",
+    "orden": 9,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318050/2"
+  },
+  {
+    "id": "325173",
+    "nombre": "CHIRA",
+    "ruta": "301",
+    "orden": 34,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325173/2"
+  },
+  {
+    "id": "327021",
+    "nombre": "SOLEDAD",
+    "ruta": "301 / 303 / 305",
+    "orden": 16,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327021/1"
+  },
+  {
+    "id": "327022",
+    "nombre": "M. BAÑON",
+    "ruta": "301 / 303 / 305",
+    "orden": 17,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327022/1"
+  },
+  {
+    "id": "327025",
+    "nombre": "R. MORALES (ARAMBURÚ)",
+    "ruta": "301 / 303 / 305",
+    "orden": 18,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327025/1"
+  },
+  {
+    "id": "318159",
+    "nombre": "ANGAMOS",
+    "ruta": "301 / 303 / 305",
+    "orden": 2,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318159/2"
+  },
+  {
+    "id": "318056",
+    "nombre": "ARAMBURU",
+    "ruta": "301 / 303 / 305",
+    "orden": 4,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318056/2"
+  },
+  {
+    "id": "301065",
+    "nombre": "E. FERNANDEZ",
+    "ruta": "301 / 303 / 305",
+    "orden": 9,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301065/2"
+  },
+  {
+    "id": "301014",
+    "nombre": "SACO OLIVEROS",
+    "ruta": "301 / 303 / 305",
+    "orden": 10,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301014/2"
+  },
+  {
+    "id": "325004",
+    "nombre": "LEONCIO PRADO",
+    "ruta": "301 / 303 / 305 / 336",
+    "orden": 5,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325004/1"
+  },
+  {
+    "id": "327059",
+    "nombre": "OLAVIDE",
+    "ruta": "301 / 303 / 305 / 336",
+    "orden": 5,
+    "distrito": "SAN ISIDRO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327059/2"
+  },
+  {
+    "id": "301068",
+    "nombre": "ESPAÑA",
+    "ruta": "301 / 303 / 305 / 336",
+    "orden": 11,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301068/2"
+  },
+  {
+    "id": "301069",
+    "nombre": "BOLIVIA",
+    "ruta": "301 / 303 / 305 / 336",
+    "orden": 12,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301069/2"
+  },
+  {
+    "id": "325004",
+    "nombre": "ALCAZAR (L. PRADO)",
+    "ruta": "301 / 303 / 305 / 336",
+    "orden": 17,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325004/2"
+  },
+  {
+    "id": "325002",
+    "nombre": "LA COLONIA",
+    "ruta": "301 / 305",
+    "orden": 4,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325002/1"
+  },
+  {
+    "id": "325005",
+    "nombre": "G. REPUBLICANA",
+    "ruta": "301 / 305",
+    "orden": 7,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325005/1"
+  },
+  {
+    "id": "325006",
+    "nombre": "CHIRA",
+    "ruta": "301 / 305",
+    "orden": 8,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325006/1"
+  },
+  {
+    "id": "325009",
+    "nombre": "MOQUEGUA",
+    "ruta": "301 / 305",
+    "orden": 11,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325009/1"
+  },
+  {
+    "id": "301010",
+    "nombre": "ILO",
+    "ruta": "301 / 305",
+    "orden": 12,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301010/1"
+  },
+  {
+    "id": "301069",
+    "nombre": "BOLIVIA",
+    "ruta": "301 / 305",
+    "orden": 13,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301069/1"
+  },
+  {
+    "id": "301068",
+    "nombre": "ESPAÑA",
+    "ruta": "301 / 305",
+    "orden": 14,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301068/1"
+  },
+  {
+    "id": "301014",
+    "nombre": "SACO OLIVEROS",
+    "ruta": "301 / 305",
+    "orden": 16,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301014/1"
+  },
+  {
+    "id": "301015",
+    "nombre": "R. DAGNINO",
+    "ruta": "301 / 305",
+    "orden": 17,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301015/1"
+  },
+  {
+    "id": "301016",
+    "nombre": "CUBA",
+    "ruta": "301 / 305",
+    "orden": 18,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301016/1"
+  },
+  {
+    "id": "301017",
+    "nombre": "E. VILLAR",
+    "ruta": "301 / 305",
+    "orden": 19,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301017/1"
+  },
+  {
+    "id": "301018",
+    "nombre": "M. SEGURA",
+    "ruta": "301 / 305",
+    "orden": 20,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301018/1"
+  },
+  {
+    "id": "314019",
+    "nombre": "M. CANDAMO",
+    "ruta": "301 / 305",
+    "orden": 21,
+    "distrito": "LINCE",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/314019/1"
+  },
+  {
+    "id": "314020",
+    "nombre": "TOMAS GUIDO",
+    "ruta": "301 / 305",
+    "orden": 22,
+    "distrito": "LINCE",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/314020/1"
+  },
+  {
+    "id": "327023",
+    "nombre": "PAZ SOLDAN",
+    "ruta": "301 / 305",
+    "orden": 25,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327023/1"
+  },
+  {
+    "id": "327024",
+    "nombre": "CHOQUEHUANCA",
+    "ruta": "301 / 305",
+    "orden": 26,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327024/1"
+  },
+  {
+    "id": "318026",
+    "nombre": "LOS ANGELES",
+    "ruta": "301 / 305",
+    "orden": 28,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318026/1"
+  },
+  {
+    "id": "318027",
+    "nombre": "ANDALUCIA",
+    "ruta": "301 / 305",
+    "orden": 29,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318027/1"
+  },
+  {
+    "id": "318028",
+    "nombre": "AYACUCHO",
+    "ruta": "301 / 305",
+    "orden": 30,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318028/1"
+  },
+  {
+    "id": "318159",
+    "nombre": "ANGAMOS",
+    "ruta": "301 / 305",
+    "orden": 31,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318159/1"
+  },
+  {
+    "id": "318030",
+    "nombre": "PIURA",
+    "ruta": "301 / 305",
+    "orden": 32,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318030/1"
+  },
+  {
+    "id": "318030",
+    "nombre": "PIURA",
+    "ruta": "301 / 305",
+    "orden": 1,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318030/2"
+  },
+  {
+    "id": "318028",
+    "nombre": "AYACUCHO",
+    "ruta": "301 / 305",
+    "orden": 3,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318028/2"
+  },
+  {
+    "id": "318054",
+    "nombre": "CARLOS TENAUD",
+    "ruta": "301 / 305",
+    "orden": 4,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318054/2"
+  },
+  {
+    "id": "318055",
+    "nombre": "RIO DE JANEIRO",
+    "ruta": "301 / 305",
+    "orden": 5,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318055/2"
+  },
+  {
+    "id": "327057",
+    "nombre": "LA HABANA",
+    "ruta": "301 / 305",
+    "orden": 7,
+    "distrito": "SAN ISIDRO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327057/2"
+  },
+  {
+    "id": "327058",
+    "nombre": "JUAN DE ARONA",
+    "ruta": "301 / 305",
+    "orden": 8,
+    "distrito": "SAN ISIDRO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327058/2"
+  },
+  {
+    "id": "314020",
+    "nombre": "TOMAS GUIDO",
+    "ruta": "301 / 305",
+    "orden": 11,
+    "distrito": "LINCE",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/314020/2"
+  },
+  {
+    "id": "301017",
+    "nombre": "E. VILLAR",
+    "ruta": "301 / 305",
+    "orden": 14,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301017/2"
+  },
+  {
+    "id": "301015",
+    "nombre": "R. DAGNINO",
+    "ruta": "301 / 305",
+    "orden": 16,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301015/2"
+  },
+  {
+    "id": "301010",
+    "nombre": "QUILCA",
+    "ruta": "301 / 305",
+    "orden": 20,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301010/2"
+  },
+  {
+    "id": "325073",
+    "nombre": "PIZARRO",
+    "ruta": "301 / 305",
+    "orden": 24,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325073/2"
+  },
+  {
+    "id": "325005",
+    "nombre": "G. REPUBLICANA",
+    "ruta": "301 / 305",
+    "orden": 26,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325005/2"
+  },
+  {
+    "id": "325078",
+    "nombre": "ARANCIBIA",
+    "ruta": "301 / 305",
+    "orden": 29,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325078/2"
+  },
+  {
+    "id": "325007",
+    "nombre": "VIRU",
+    "ruta": "301 / 305 / 336",
+    "orden": 8,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325007/1"
+  },
+  {
+    "id": "314019",
+    "nombre": "M. CANDAMO",
+    "ruta": "301 / 305 / 336",
+    "orden": 11,
+    "distrito": "LINCE",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/314019/2"
+  },
+  {
+    "id": "325003",
+    "nombre": "MADRID",
+    "ruta": "301 / 305 / 370",
+    "orden": 5,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325003/1"
+  },
+  {
+    "id": "325077",
+    "nombre": "LAS CALEZAS",
+    "ruta": "301 / 305 / 370",
+    "orden": 6,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325077/2"
+  },
+  {
+    "id": "325079",
+    "nombre": "AMANCAES",
+    "ruta": "301 / 305 / 370",
+    "orden": 7,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325079/2"
+  },
+  {
+    "id": "325001",
+    "nombre": "AMANCAES",
+    "ruta": "301 / 305 / 370 / 371",
+    "orden": 3,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325001/1"
+  },
+  {
+    "id": "325008",
+    "nombre": "ICA",
+    "ruta": "301 / 305 / 372",
+    "orden": 1,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325008/1"
+  },
+  {
+    "id": "301071",
+    "nombre": "EMANCIPACION",
+    "ruta": "301 / 305 / 372",
+    "orden": 21,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301071/2"
+  },
+  {
+    "id": "301072",
+    "nombre": "CALLAO",
+    "ruta": "301 / 305 / 372",
+    "orden": 22,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301072/2"
+  },
+  {
+    "id": "325181",
+    "nombre": "24 DE JUNIO",
+    "ruta": "301 / 336 / 370",
+    "orden": 1,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325181/1"
+  },
+  {
+    "id": "330356",
+    "nombre": "COMPLEJO DEPORTIVO",
+    "ruta": "301 / 336 / 370",
+    "orden": 2,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330356/1"
+  },
+  {
+    "id": "330343",
+    "nombre": "EDUARDO DIBOS",
+    "ruta": "301 / 336 / 370",
+    "orden": 3,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330343/1"
+  },
+  {
+    "id": "325183",
+    "nombre": "CARLOS VALDERRAMA",
+    "ruta": "301 / 336 / 370",
+    "orden": 4,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325183/1"
+  },
+  {
+    "id": "325219",
+    "nombre": "EL SOL (AMANCAES)",
+    "ruta": "301 / 336 / 370",
+    "orden": 9,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325219/2"
+  },
+  {
+    "id": "325220",
+    "nombre": "CALLE 10",
+    "ruta": "301 / 336 / 370",
+    "orden": 10,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325220/2"
+  },
+  {
+    "id": "328102",
+    "nombre": "CALLE 3",
+    "ruta": "301 / 370",
+    "orden": 8,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/328102/2"
+  },
+  {
+    "id": "500415",
+    "nombre": "LIMA",
+    "ruta": "303",
+    "orden": 1,
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/500415/1"
+  },
+  {
+    "id": "500328",
+    "nombre": "COMISARIA",
+    "ruta": "303",
+    "orden": 2,
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/500328/1"
+  },
+  {
+    "id": "500329",
+    "nombre": "LA LOSA",
+    "ruta": "303",
+    "orden": 3,
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/500329/1"
+  },
+  {
+    "id": "336141",
+    "nombre": "CA. RIMAC / TUNEL",
+    "ruta": "303",
+    "orden": 4,
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/336141/1"
+  },
+  {
+    "id": "325073",
+    "nombre": "PIZARRO",
+    "ruta": "303",
+    "orden": 6,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325073/1"
+  },
+  {
+    "id": "301149",
+    "nombre": "NATALIO SANCHEZ",
+    "ruta": "303",
+    "orden": 12,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301149/1"
+  },
+  {
+    "id": "327152",
+    "nombre": "RISSO",
+    "ruta": "303",
+    "orden": 15,
+    "distrito": "LINCE",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327152/1"
+  },
+  {
+    "id": "318156",
+    "nombre": "TERUEL",
+    "ruta": "303",
+    "orden": 19,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318156/1"
+  },
+  {
+    "id": "318156",
+    "nombre": "TERUEL",
+    "ruta": "303",
+    "orden": 3,
+    "distrito": "SAN ISIDRO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318156/2"
+  },
+  {
+    "id": "330357",
+    "nombre": "PEDRO CONDE",
+    "ruta": "303",
+    "orden": 6,
+    "distrito": "SAN ISIDRO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330357/2"
+  },
+  {
+    "id": "327164",
+    "nombre": "BERNARDO ALCEDO",
+    "ruta": "303",
+    "orden": 7,
+    "distrito": "LINCE",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327164/2"
+  },
+  {
+    "id": "325175",
+    "nombre": "TALARA",
+    "ruta": "303",
+    "orden": 18,
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325175/2"
+  },
+  {
+    "id": "500337",
+    "nombre": "PROCERES",
+    "ruta": "303",
+    "orden": 19,
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/500337/2"
+  },
+  {
+    "id": "318110",
+    "nombre": "2 DE MAYO",
+    "ruta": "303 / 305",
+    "orden": 1,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318110/1"
+  },
+  {
+    "id": "301013",
+    "nombre": "HUANCAYO",
+    "ruta": "303 / 305 / 336",
+    "orden": 11,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301013/1"
+  },
+  {
+    "id": "301189",
+    "nombre": "HUANCAVELICA",
+    "ruta": "303 / 336",
+    "orden": 7,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301189/1"
+  },
+  {
+    "id": "301172",
+    "nombre": "MOQUEGUA",
+    "ruta": "303 / 336",
+    "orden": 14,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301172/2"
+  },
+  {
+    "id": "325008",
+    "nombre": "ICA",
+    "ruta": "303 / 336",
+    "orden": 15,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325008/2"
+  },
+  {
+    "id": "301145",
+    "nombre": "NICOLAS DE PIEROLA",
+    "ruta": "303 / 336 / 372",
+    "orden": 2,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301145/1"
+  },
+  {
+    "id": "301146",
+    "nombre": "VILLARAN",
+    "ruta": "303 / 336 / 372",
+    "orden": 3,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301146/1"
+  },
+  {
+    "id": "301170",
+    "nombre": "URUGUAY",
+    "ruta": "303 / 336 / 372",
+    "orden": 13,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301170/2"
+  },
+  {
+    "id": "320227",
+    "nombre": "CONDOMINIOS",
+    "ruta": "305",
+    "orden": 1,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/320227/1"
+  },
+  {
+    "id": "330358",
+    "nombre": "MORRO DE ARICA",
+    "ruta": "305",
+    "orden": 2,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330358/1"
+  },
+  {
+    "id": "325006",
+    "nombre": "CHIRA",
+    "ruta": "305",
+    "orden": 25,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325006/2"
+  },
+  {
+    "id": "325022",
+    "nombre": "MORRO DE ARICA",
+    "ruta": "305 / 371",
+    "orden": 2,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325022/2"
+  },
+  {
+    "id": "330350",
+    "nombre": "PARDO",
+    "ruta": "336",
+    "orden": 1,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330350/1"
+  },
+  {
+    "id": "328202",
+    "nombre": "AGUILAR",
+    "ruta": "336",
+    "orden": 5,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/328202/1"
+  },
+  {
+    "id": "328203",
+    "nombre": "LOS VIRREYES",
+    "ruta": "336",
+    "orden": 6,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/328203/1"
+  },
+  {
+    "id": "301099",
+    "nombre": "SACO OLIVEROS",
+    "ruta": "336",
+    "orden": 14,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301099/1"
+  },
+  {
+    "id": "330344",
+    "nombre": "CUBA",
+    "ruta": "336",
+    "orden": 15,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330344/1"
+  },
+  {
+    "id": "330345",
+    "nombre": "MANUEL DEL PINO",
+    "ruta": "336",
+    "orden": 16,
+    "distrito": "CERCADO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330345/1"
+  },
+  {
+    "id": "330346",
+    "nombre": "LEON VELARDE",
+    "ruta": "336",
+    "orden": 17,
+    "distrito": "LINCE",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330346/1"
+  },
+  {
+    "id": "330347",
+    "nombre": "JOAQUIN BERNAL",
+    "ruta": "336",
+    "orden": 18,
+    "distrito": "LINCE",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330347/1"
+  },
+  {
+    "id": "327200",
+    "nombre": "JAVIER PRADO",
+    "ruta": "336",
+    "orden": 19,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327200/1"
+  },
+  {
+    "id": "330348",
+    "nombre": "M. BAÑON",
+    "ruta": "336",
+    "orden": 20,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330348/1"
+  },
+  {
+    "id": "330349",
+    "nombre": "PAZ SOLDAN",
+    "ruta": "336",
+    "orden": 21,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330349/1"
+  },
+  {
+    "id": "327005",
+    "nombre": "CHOQUEHUANCA",
+    "ruta": "336",
+    "orden": 22,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327005/1"
+  },
+  {
+    "id": "327006",
+    "nombre": "PEZET",
+    "ruta": "336",
+    "orden": 23,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327006/1"
+  },
+  {
+    "id": "327007",
+    "nombre": "DASSO",
+    "ruta": "336",
+    "orden": 24,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327007/1"
+  },
+  {
+    "id": "318015",
+    "nombre": "OVALO GUTIERREZ",
+    "ruta": "336",
+    "orden": 25,
+    "distrito": "SAN ISIDRO",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318015/1"
+  },
+  {
+    "id": "318014",
+    "nombre": "ANGAMOS",
+    "ruta": "336",
+    "orden": 26,
+    "distrito": "MIRAFLORES",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318014/1"
+  },
+  {
+    "id": "318014",
+    "nombre": "ANGAMOS",
+    "ruta": "336",
+    "orden": 2,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/318014/2"
+  },
+  {
+    "id": "330352",
+    "nombre": "OVALO GUTIERREZ",
+    "ruta": "336",
+    "orden": 3,
+    "distrito": "MIRAFLORES",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330352/2"
+  },
+  {
+    "id": "327016",
+    "nombre": "PARADO Y ALIAGA",
+    "ruta": "336",
+    "orden": 4,
+    "distrito": "SAN ISIDRO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327016/2"
+  },
+  {
+    "id": "327017",
+    "nombre": "CONDE DE LA MONCLAVA",
+    "ruta": "336",
+    "orden": 5,
+    "distrito": "SAN ISIDRO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/327017/2"
+  },
+  {
+    "id": "330353",
+    "nombre": "CHOQUEHUANCA",
+    "ruta": "336",
+    "orden": 6,
+    "distrito": "SAN ISIDRO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330353/2"
+  },
+  {
+    "id": "330349",
+    "nombre": "PAZ SOLDAN",
+    "ruta": "336",
+    "orden": 7,
+    "distrito": "SAN ISIDRO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330349/2"
+  },
+  {
+    "id": "314022",
+    "nombre": "RISSO",
+    "ruta": "336",
+    "orden": 10,
+    "distrito": "LINCE",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/314022/2"
+  },
+  {
+    "id": "301018",
+    "nombre": "M. SEGURA",
+    "ruta": "336",
+    "orden": 12,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301018/2"
+  },
+  {
+    "id": "500714",
+    "nombre": "ALEJANDRO TIRADO",
+    "ruta": "336",
+    "orden": 13,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/500714/2"
+  },
+  {
+    "id": "330355",
+    "nombre": "SACO OLIVEROS",
+    "ruta": "336",
+    "orden": 14,
+    "distrito": "CERCADO",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330355/2"
+  },
+  {
+    "id": "328203",
+    "nombre": "LOS VIRREYES",
+    "ruta": "336",
+    "orden": 22,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/328203/2"
+  },
+  {
+    "id": "328202",
+    "nombre": "AGUILAR",
+    "ruta": "336",
+    "orden": 23,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/328202/2"
+  },
+  {
+    "id": "325224",
+    "nombre": "PASAJE 17",
+    "ruta": "370",
+    "orden": 2,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325224/1"
+  },
+  {
+    "id": "325179",
+    "nombre": "CEREZOS",
+    "ruta": "370",
+    "orden": 3,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325179/1"
+  },
+  {
+    "id": "325180",
+    "nombre": "CLAVELES",
+    "ruta": "370",
+    "orden": 4,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325180/1"
+  },
+  {
+    "id": "325184",
+    "nombre": "CALLE 1",
+    "ruta": "370",
+    "orden": 9,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325184/1"
+  },
+  {
+    "id": "330229",
+    "nombre": "ANTON SANCHEZ",
+    "ruta": "370",
+    "orden": 12,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330229/1"
+  },
+  {
+    "id": "328111",
+    "nombre": "PROLONGACION TACNA",
+    "ruta": "370",
+    "orden": 13,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/328111/1"
+  },
+  {
+    "id": "330330",
+    "nombre": "22 DE AGOSTO",
+    "ruta": "370",
+    "orden": 14,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330330/1"
+  },
+  {
+    "id": "330331",
+    "nombre": "SECHURA",
+    "ruta": "370",
+    "orden": 15,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330331/1"
+  },
+  {
+    "id": "330332",
+    "nombre": "CAJAMARCA",
+    "ruta": "370",
+    "orden": 16,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330332/1"
+  },
+  {
+    "id": "328112",
+    "nombre": "TRUJILLO",
+    "ruta": "370",
+    "orden": 17,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/328112/1"
+  },
+  {
+    "id": "10315",
+    "nombre": "ACHO",
+    "ruta": "370",
+    "orden": 1,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/10315/2"
+  },
+  {
+    "id": "330335",
+    "nombre": "CHICLAYO",
+    "ruta": "370",
+    "orden": 2,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330335/2"
+  },
+  {
+    "id": "330111",
+    "nombre": "ALAMEDA DE LOS DESCALZOS",
+    "ruta": "370",
+    "orden": 3,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330111/2"
+  },
+  {
+    "id": "328111",
+    "nombre": "PROLONGACION TACNA",
+    "ruta": "370",
+    "orden": 4,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/328111/2"
+  },
+  {
+    "id": "330229",
+    "nombre": "ANTON SANCHEZ",
+    "ruta": "370",
+    "orden": 5,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330229/2"
+  },
+  {
+    "id": "325180",
+    "nombre": "CLAVELES",
+    "ruta": "370",
+    "orden": 12,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325180/2"
+  },
+  {
+    "id": "325179",
+    "nombre": "CEREZOS",
+    "ruta": "370",
+    "orden": 13,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325179/2"
+  },
+  {
+    "id": "325224",
+    "nombre": "PASAJE 17",
+    "ruta": "370",
+    "orden": 14,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325224/2"
+  },
+  {
+    "id": "325225",
+    "nombre": "MONACO",
+    "ruta": "370",
+    "orden": 15,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325225/2"
+  },
+  {
+    "id": "330337",
+    "nombre": "LAS LOMAS",
+    "ruta": "371",
+    "orden": 1,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330337/1"
+  },
+  {
+    "id": "325022",
+    "nombre": "MORRO DE ARICA",
+    "ruta": "371",
+    "orden": 2,
+    "distrito": "RIMAC",
+    "direction": 1,
+    "sentidoTexto": "Norte a Sur",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325022/1"
+  },
+  {
+    "id": "325001",
+    "nombre": "AMANCAES",
+    "ruta": "371",
+    "orden": 1,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/325001/2"
+  },
+  {
+    "id": "320227",
+    "nombre": "CONDOMINIOS",
+    "ruta": "371",
+    "orden": 3,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/320227/2"
+  },
+  {
+    "id": "330337",
+    "nombre": "LAS LOMAS",
+    "ruta": "371",
+    "orden": 4,
+    "distrito": "RIMAC",
+    "direction": 2,
+    "sentidoTexto": "Sur a Norte",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330337/2"
+  },
+  {
+    "id": "330388",
+    "nombre": "CHOTA",
+    "ruta": "372",
+    "orden": 4,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330388/1"
+  },
+  {
+    "id": "330389",
+    "nombre": "IQUIQUE",
+    "ruta": "372",
+    "orden": 5,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330389/1"
+  },
+  {
+    "id": "330390",
+    "nombre": "JORGE CHAVEZ",
+    "ruta": "372",
+    "orden": 6,
+    "distrito": "BREÑA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330390/1"
+  },
+  {
+    "id": "330391",
+    "nombre": "AGUARICO",
+    "ruta": "372",
+    "orden": 7,
+    "distrito": "BREÑA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330391/1"
+  },
+  {
+    "id": "330392",
+    "nombre": "TINGO MARÍA",
+    "ruta": "372",
+    "orden": 8,
+    "distrito": "BREÑA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330392/1"
+  },
+  {
+    "id": "330393",
+    "nombre": "NACIONES UNIDAS",
+    "ruta": "372",
+    "orden": 9,
+    "distrito": "BREÑA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330393/1"
+  },
+  {
+    "id": "330394",
+    "nombre": "ZORRITOS",
+    "ruta": "372",
+    "orden": 10,
+    "distrito": "BREÑA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330394/1"
+  },
+  {
+    "id": "330395",
+    "nombre": "GALDEANO Y MENDOZA",
+    "ruta": "372",
+    "orden": 11,
+    "distrito": "BREÑA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330395/1"
+  },
+  {
+    "id": "330396",
+    "nombre": "DANSEY",
+    "ruta": "372",
+    "orden": 12,
+    "distrito": "BREÑA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330396/1"
+  },
+  {
+    "id": "330397",
+    "nombre": "ARGENTINA",
+    "ruta": "372",
+    "orden": 13,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330397/1"
+  },
+  {
+    "id": "330398",
+    "nombre": "PEDRO GAREZÓN",
+    "ruta": "372",
+    "orden": 14,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330398/1"
+  },
+  {
+    "id": "330399",
+    "nombre": "DUAREZ",
+    "ruta": "372",
+    "orden": 15,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330399/1"
+  },
+  {
+    "id": "330400",
+    "nombre": "PERU",
+    "ruta": "372",
+    "orden": 16,
+    "distrito": "SMP",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330400/1"
+  },
+  {
+    "id": "330401",
+    "nombre": "SANTO DOMINGO",
+    "ruta": "372",
+    "orden": 17,
+    "distrito": "SMP",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330401/1"
+  },
+  {
+    "id": "330402",
+    "nombre": "VILLA RICA",
+    "ruta": "372",
+    "orden": 18,
+    "distrito": "SMP",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330402/1"
+  },
+  {
+    "id": "330403",
+    "nombre": "CAMANÁ",
+    "ruta": "372",
+    "orden": 19,
+    "distrito": "SMP",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330403/1"
+  },
+  {
+    "id": "330404",
+    "nombre": "IQUITOS",
+    "ruta": "372",
+    "orden": 20,
+    "distrito": "SMP",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330404/1"
+  },
+  {
+    "id": "330405",
+    "nombre": "HUANCAYO",
+    "ruta": "372",
+    "orden": 21,
+    "distrito": "SMP",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330405/1"
+  },
+  {
+    "id": "330406",
+    "nombre": "SALAVERRY",
+    "ruta": "372",
+    "orden": 22,
+    "distrito": "SMP",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330406/1"
+  },
+  {
+    "id": "330407",
+    "nombre": "CALLE 1",
+    "ruta": "372",
+    "orden": 23,
+    "distrito": "SMP",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330407/1"
+  },
+  {
+    "id": "330408",
+    "nombre": "FAUCETT",
+    "ruta": "372",
+    "orden": 24,
+    "distrito": "SMP",
+    "direction": 1,
+    "sentidoTexto": "Este a Oeste",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330408/1"
+  },
+  {
+    "id": "330408",
+    "nombre": "FAUCETT",
+    "ruta": "372",
+    "orden": 1,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330408/2"
+  },
+  {
+    "id": "330409",
+    "nombre": "QUILCA",
+    "ruta": "372",
+    "orden": 2,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330409/2"
+  },
+  {
+    "id": "330410",
+    "nombre": "CUSCO",
+    "ruta": "372",
+    "orden": 3,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330410/2"
+  },
+  {
+    "id": "330412",
+    "nombre": "CHICLAYO",
+    "ruta": "372",
+    "orden": 4,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330412/2"
+  },
+  {
+    "id": "330413",
+    "nombre": "HUANCAYO",
+    "ruta": "372",
+    "orden": 5,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330413/2"
+  },
+  {
+    "id": "330414",
+    "nombre": "PLAZA DE ARMAS",
+    "ruta": "372",
+    "orden": 6,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330414/2"
+  },
+  {
+    "id": "330415",
+    "nombre": "ANDAHUAYLAS",
+    "ruta": "372",
+    "orden": 7,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330415/2"
+  },
+  {
+    "id": "330416",
+    "nombre": "ABANCAY",
+    "ruta": "372",
+    "orden": 8,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330416/2"
+  },
+  {
+    "id": "330417",
+    "nombre": "VILLA RICA",
+    "ruta": "372",
+    "orden": 9,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330417/2"
+  },
+  {
+    "id": "330418",
+    "nombre": "SAN SALVADOR",
+    "ruta": "372",
+    "orden": 10,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330418/2"
+  },
+  {
+    "id": "330419",
+    "nombre": "SANTA FÉ",
+    "ruta": "372",
+    "orden": 11,
+    "distrito": "SMP",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330419/2"
+  },
+  {
+    "id": "330420",
+    "nombre": "PINAR DEL RIO",
+    "ruta": "372",
+    "orden": 12,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330420/2"
+  },
+  {
+    "id": "330421",
+    "nombre": "PÉREZ DE TUDELA",
+    "ruta": "372",
+    "orden": 13,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330421/2"
+  },
+  {
+    "id": "330422",
+    "nombre": "MATERIALES",
+    "ruta": "372",
+    "orden": 14,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330422/2"
+  },
+  {
+    "id": "330423",
+    "nombre": "ARGENTINA",
+    "ruta": "372",
+    "orden": 15,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330423/2"
+  },
+  {
+    "id": "330424",
+    "nombre": "NACIONES UNIDAS",
+    "ruta": "372",
+    "orden": 16,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330424/2"
+  },
+  {
+    "id": "330425",
+    "nombre": "ZORRITOS",
+    "ruta": "372",
+    "orden": 17,
+    "distrito": "BREÑA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330425/2"
+  },
+  {
+    "id": "330426",
+    "nombre": "INO",
+    "ruta": "372",
+    "orden": 18,
+    "distrito": "BREÑA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330426/2"
+  },
+  {
+    "id": "330427",
+    "nombre": "ARICA",
+    "ruta": "372",
+    "orden": 19,
+    "distrito": "BREÑA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330427/2"
+  },
+  {
+    "id": "330428",
+    "nombre": "YURUA (AGUARICO)",
+    "ruta": "372",
+    "orden": 20,
+    "distrito": "BREÑA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330428/2"
+  },
+  {
+    "id": "330429",
+    "nombre": "LORETO",
+    "ruta": "372",
+    "orden": 21,
+    "distrito": "BREÑA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330429/2"
+  },
+  {
+    "id": "330430",
+    "nombre": "HUARAZ",
+    "ruta": "372",
+    "orden": 22,
+    "distrito": "BREÑA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330430/2"
+  },
+  {
+    "id": "330431",
+    "nombre": "ALFONSO UGARTE",
+    "ruta": "372",
+    "orden": 23,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330431/2"
+  },
+  {
+    "id": "330432",
+    "nombre": "GARCILASO DE LA VEGA",
+    "ruta": "372",
+    "orden": 24,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330432/2"
+  },
+  {
+    "id": "301070",
+    "nombre": "QUILCA",
+    "ruta": "372",
+    "orden": 26,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/301070/2"
+  },
+  {
+    "id": "330433",
+    "nombre": "NICOLÁS DE PIÉROLA",
+    "ruta": "372",
+    "orden": 27,
+    "distrito": "CERCADO DE LIMA",
+    "direction": 2,
+    "sentidoTexto": "Oeste a Este",
+    "urlOriginal": "https://corredorazul.ctarequipa.net/330433/2"
+  }
+]
