@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1781584837562,
+  "timestamp": 1781628864973,
   "index": "/azulya/index.html",
   "assetGroups": [
     {
@@ -13,13 +13,13 @@
       "urls": [
         "/azulya/chunk-EVPONLZ7.js",
         "/azulya/chunk-JR6BEDLV.js",
-        "/azulya/chunk-KN2IJHYE.js",
         "/azulya/chunk-RSNRKOKY.js",
         "/azulya/chunk-UGJF67MY.js",
+        "/azulya/chunk-WFAI2FMK.js",
         "/azulya/chunk-YJ5GO7TN.js",
         "/azulya/favicon.ico",
         "/azulya/index.html",
-        "/azulya/main-UEM7P6ON.js",
+        "/azulya/main-3H2DIXN2.js",
         "/azulya/manifest.webmanifest",
         "/azulya/polyfills-FFHMD2TL.js",
         "/azulya/styles-M6QXQSSB.css"
@@ -51,9 +51,9 @@
   "hashTable": {
     "/azulya/chunk-EVPONLZ7.js": "f94e13f9e55d8f256ce273841e97f3d46b7307ba",
     "/azulya/chunk-JR6BEDLV.js": "b7084f6b584e15ed1eec411488d551ede28a9c6c",
-    "/azulya/chunk-KN2IJHYE.js": "9feeb32c1ef4b634452e75cc3adcc418e5b65820",
     "/azulya/chunk-RSNRKOKY.js": "16c9db5037eed73bc6b84e5ca415e23c9fb51b0e",
     "/azulya/chunk-UGJF67MY.js": "6ec10a80fde6b4a2a444edc0eba2381ec70a1039",
+    "/azulya/chunk-WFAI2FMK.js": "1dd6ed79ae3faefcbae92be7a38569212f8b4e28",
     "/azulya/chunk-YJ5GO7TN.js": "34d7d915f7a748a288b5d73e0833f54f830f4693",
     "/azulya/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/azulya/favicon.svg": "b8f6d4f735016613a2121bfbc1d23d7f95f68b35",
@@ -65,8 +65,8 @@
     "/azulya/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/azulya/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/azulya/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/azulya/index.html": "508a2211045bd1d10b9a06f216b1a271de78e039",
-    "/azulya/main-UEM7P6ON.js": "8b12776a9d76adbc26309cb9b3a0cc8f371a37fb",
+    "/azulya/index.html": "87c465b7bd00f75a9b0b60bd196ef212085f8cf9",
+    "/azulya/main-3H2DIXN2.js": "a821e8f37213c8278002fcf6abb190caf4ac7a80",
     "/azulya/manifest.webmanifest": "78d1e267fc0ac0c0a189ca5bad9976d3e75e60a6",
     "/azulya/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/azulya/styles-M6QXQSSB.css": "1a8c8e1c57d659a0edb98c2c45ec78018e054691"
