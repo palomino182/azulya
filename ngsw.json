@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1781582997377,
+  "timestamp": 1781583773844,
   "index": "/azulya/index.html",
   "assetGroups": [
     {
@@ -13,16 +13,16 @@
       "urls": [
         "/azulya/chunk-EVPONLZ7.js",
         "/azulya/chunk-JR6BEDLV.js",
+        "/azulya/chunk-L2R5YT7G.js",
         "/azulya/chunk-RSNRKOKY.js",
         "/azulya/chunk-UGJF67MY.js",
-        "/azulya/chunk-XZYCR3YU.js",
         "/azulya/chunk-YJ5GO7TN.js",
         "/azulya/favicon.ico",
         "/azulya/index.html",
-        "/azulya/main-RFH7AEBC.js",
+        "/azulya/main-7C2ZTFR6.js",
         "/azulya/manifest.webmanifest",
         "/azulya/polyfills-FFHMD2TL.js",
-        "/azulya/styles-H7JABKGQ.css"
+        "/azulya/styles-LFPUXBS7.css"
       ],
       "patterns": []
     },
@@ -51,9 +51,9 @@
   "hashTable": {
     "/azulya/chunk-EVPONLZ7.js": "f94e13f9e55d8f256ce273841e97f3d46b7307ba",
     "/azulya/chunk-JR6BEDLV.js": "b7084f6b584e15ed1eec411488d551ede28a9c6c",
+    "/azulya/chunk-L2R5YT7G.js": "86c153cf598e74a252bba0ae8207d80100d82d6b",
     "/azulya/chunk-RSNRKOKY.js": "16c9db5037eed73bc6b84e5ca415e23c9fb51b0e",
     "/azulya/chunk-UGJF67MY.js": "6ec10a80fde6b4a2a444edc0eba2381ec70a1039",
-    "/azulya/chunk-XZYCR3YU.js": "80f3ac21fc0572aad3a3dcd4e49b9b706ef3a622",
     "/azulya/chunk-YJ5GO7TN.js": "34d7d915f7a748a288b5d73e0833f54f830f4693",
     "/azulya/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/azulya/favicon.svg": "b8f6d4f735016613a2121bfbc1d23d7f95f68b35",
@@ -65,11 +65,11 @@
     "/azulya/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/azulya/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/azulya/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/azulya/index.html": "dd547539519eb5325e47883b03492ae59e21978b",
-    "/azulya/main-RFH7AEBC.js": "7751fd07e74854977a80765a22b6bcfec7b761d4",
+    "/azulya/index.html": "ee27afe19576d80ce85999eda88c89132b0749bd",
+    "/azulya/main-7C2ZTFR6.js": "b247770a98fdb516b3ecdf517a30e2cbf12591d2",
     "/azulya/manifest.webmanifest": "78d1e267fc0ac0c0a189ca5bad9976d3e75e60a6",
     "/azulya/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/azulya/styles-H7JABKGQ.css": "0b60a9c2696663f75746106a21333c138e42feb9"
+    "/azulya/styles-LFPUXBS7.css": "46d6bd9533f7db6352f259f4800ada4930b8f6f7"
   },
   "navigationUrls": [
     {
