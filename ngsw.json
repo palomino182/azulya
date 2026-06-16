@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1781582073210,
-  "index": "/index.html",
+  "timestamp": 1781582604046,
+  "index": "/azulya/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,18 +11,18 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-EVPONLZ7.js",
-        "/chunk-JR6BEDLV.js",
-        "/chunk-RSNRKOKY.js",
-        "/chunk-UGJF67MY.js",
-        "/chunk-XZYCR3YU.js",
-        "/chunk-YJ5GO7TN.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main-RFH7AEBC.js",
-        "/manifest.webmanifest",
-        "/polyfills-FFHMD2TL.js",
-        "/styles-H7JABKGQ.css"
+        "/azulya/chunk-EVPONLZ7.js",
+        "/azulya/chunk-JR6BEDLV.js",
+        "/azulya/chunk-RSNRKOKY.js",
+        "/azulya/chunk-UGJF67MY.js",
+        "/azulya/chunk-XZYCR3YU.js",
+        "/azulya/chunk-YJ5GO7TN.js",
+        "/azulya/favicon.ico",
+        "/azulya/index.html",
+        "/azulya/main-RFH7AEBC.js",
+        "/azulya/manifest.webmanifest",
+        "/azulya/polyfills-FFHMD2TL.js",
+        "/azulya/styles-H7JABKGQ.css"
       ],
       "patterns": []
     },
@@ -34,40 +34,40 @@
         "ignoreVary": true
       },
       "urls": [
-        "/icons/icon-128x128.png",
-        "/icons/icon-144x144.png",
-        "/icons/icon-152x152.png",
-        "/icons/icon-192x192.png",
-        "/icons/icon-384x384.png",
-        "/icons/icon-512x512.png",
-        "/icons/icon-72x72.png",
-        "/icons/icon-96x96.png"
+        "/azulya/icons/icon-128x128.png",
+        "/azulya/icons/icon-144x144.png",
+        "/azulya/icons/icon-152x152.png",
+        "/azulya/icons/icon-192x192.png",
+        "/azulya/icons/icon-384x384.png",
+        "/azulya/icons/icon-512x512.png",
+        "/azulya/icons/icon-72x72.png",
+        "/azulya/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/chunk-EVPONLZ7.js": "f94e13f9e55d8f256ce273841e97f3d46b7307ba",
-    "/chunk-JR6BEDLV.js": "b7084f6b584e15ed1eec411488d551ede28a9c6c",
-    "/chunk-RSNRKOKY.js": "16c9db5037eed73bc6b84e5ca415e23c9fb51b0e",
-    "/chunk-UGJF67MY.js": "6ec10a80fde6b4a2a444edc0eba2381ec70a1039",
-    "/chunk-XZYCR3YU.js": "80f3ac21fc0572aad3a3dcd4e49b9b706ef3a622",
-    "/chunk-YJ5GO7TN.js": "34d7d915f7a748a288b5d73e0833f54f830f4693",
-    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/index.html": "a5862b34bf92800b2cc6556d7da78a4542f39676",
-    "/main-RFH7AEBC.js": "7751fd07e74854977a80765a22b6bcfec7b761d4",
-    "/manifest.webmanifest": "2c82d4579b17312c14302ff87c58bcacfb17f928",
-    "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/styles-H7JABKGQ.css": "0b60a9c2696663f75746106a21333c138e42feb9"
+    "/azulya/chunk-EVPONLZ7.js": "f94e13f9e55d8f256ce273841e97f3d46b7307ba",
+    "/azulya/chunk-JR6BEDLV.js": "b7084f6b584e15ed1eec411488d551ede28a9c6c",
+    "/azulya/chunk-RSNRKOKY.js": "16c9db5037eed73bc6b84e5ca415e23c9fb51b0e",
+    "/azulya/chunk-UGJF67MY.js": "6ec10a80fde6b4a2a444edc0eba2381ec70a1039",
+    "/azulya/chunk-XZYCR3YU.js": "80f3ac21fc0572aad3a3dcd4e49b9b706ef3a622",
+    "/azulya/chunk-YJ5GO7TN.js": "34d7d915f7a748a288b5d73e0833f54f830f4693",
+    "/azulya/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/azulya/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/azulya/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/azulya/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/azulya/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/azulya/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/azulya/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/azulya/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/azulya/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/azulya/index.html": "eb138c84ded06214a638291f4c1ab5194948d471",
+    "/azulya/main-RFH7AEBC.js": "7751fd07e74854977a80765a22b6bcfec7b761d4",
+    "/azulya/manifest.webmanifest": "2c82d4579b17312c14302ff87c58bcacfb17f928",
+    "/azulya/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "/azulya/styles-H7JABKGQ.css": "0b60a9c2696663f75746106a21333c138e42feb9"
   },
   "navigationUrls": [
     {
