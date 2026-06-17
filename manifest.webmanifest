@@ -1,6 +1,7 @@
 {
   "name": "AzulYa",
   "short_name": "AzulYa",
+  "id": "/azulya/",
   "theme_color": "#003DA5",
   "background_color": "#f5f7fb",
   "display": "standalone",
