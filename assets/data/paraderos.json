@@ -191,7 +191,7 @@
   },
   {
     "id": "318049",
-    "nombre": "SCHELL",
+    "nombre": "SHELL",
     "ruta": "301",
     "orden": 8,
     "distrito": "MIRAFLORES",
@@ -1322,7 +1322,7 @@
   {
     "id": "301018",
     "nombre": "M. SEGURA",
-    "ruta": "336",
+    "ruta": "301 / 336",
     "orden": 12,
     "distrito": "CERCADO",
     "direction": 2,

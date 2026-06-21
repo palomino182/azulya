@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1781659914037,
+  "timestamp": 1782017740162,
   "index": "/azulya/index.html",
   "assetGroups": [
     {
@@ -12,8 +12,8 @@
       },
       "urls": [
         "/azulya/chunk-EVPONLZ7.js",
-        "/azulya/chunk-HVXGS4MY.js",
         "/azulya/chunk-JR6BEDLV.js",
+        "/azulya/chunk-LAFXA7V3.js",
         "/azulya/chunk-RSNRKOKY.js",
         "/azulya/chunk-UGJF67MY.js",
         "/azulya/chunk-YJ5GO7TN.js",
@@ -23,11 +23,11 @@
         "/azulya/icons/maskable-icon-192x192.png",
         "/azulya/icons/maskable-icon-512x512.png",
         "/azulya/index.html",
-        "/azulya/main-BRR77VI6.js",
+        "/azulya/main-IUPQ4IER.js",
         "/azulya/manifest-v4.webmanifest",
         "/azulya/manifest.webmanifest",
         "/azulya/polyfills-FFHMD2TL.js",
-        "/azulya/styles-M6QXQSSB.css"
+        "/azulya/styles-5ADKCSQY.css"
       ],
       "patterns": []
     },
@@ -53,8 +53,8 @@
   "dataGroups": [],
   "hashTable": {
     "/azulya/chunk-EVPONLZ7.js": "f94e13f9e55d8f256ce273841e97f3d46b7307ba",
-    "/azulya/chunk-HVXGS4MY.js": "0f7b1058a1240bc95e2edb6df97fe6a85d0546f1",
     "/azulya/chunk-JR6BEDLV.js": "b7084f6b584e15ed1eec411488d551ede28a9c6c",
+    "/azulya/chunk-LAFXA7V3.js": "9104bdfd70621b6d3afc540a43707864edcb5d3e",
     "/azulya/chunk-RSNRKOKY.js": "16c9db5037eed73bc6b84e5ca415e23c9fb51b0e",
     "/azulya/chunk-UGJF67MY.js": "6ec10a80fde6b4a2a444edc0eba2381ec70a1039",
     "/azulya/chunk-YJ5GO7TN.js": "34d7d915f7a748a288b5d73e0833f54f830f4693",
@@ -70,12 +70,12 @@
     "/azulya/icons/icon-96x96.png": "30b62660d71c5bb4a91f999f8e11f0f07897bce8",
     "/azulya/icons/maskable-icon-192x192.png": "70b0163f65c70eb2ae08d2d2d8ac1784b233c7a2",
     "/azulya/icons/maskable-icon-512x512.png": "c4764ae42a9e0fa43ce03a63b37814d059785e34",
-    "/azulya/index.html": "80cdf0fbca5f6df90a8b7e6a90dee8bc8a491426",
-    "/azulya/main-BRR77VI6.js": "1f8db8f8dc843b9cdb4c82dc3963a527432ec6f4",
+    "/azulya/index.html": "3399683ecce86e98898ba6bf8e1e2e2ec2cb99eb",
+    "/azulya/main-IUPQ4IER.js": "d8ac6115b0fe1ac3dc16b4ea8263aa1f5964dccd",
     "/azulya/manifest-v4.webmanifest": "91a1c102b1f7ae7633d09bbc0bc3834b490234b6",
     "/azulya/manifest.webmanifest": "91a1c102b1f7ae7633d09bbc0bc3834b490234b6",
     "/azulya/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/azulya/styles-M6QXQSSB.css": "1a8c8e1c57d659a0edb98c2c45ec78018e054691"
+    "/azulya/styles-5ADKCSQY.css": "862b2f5716391b40b8d7d91b14ac889aad1bc749"
   },
   "navigationUrls": [
     {
