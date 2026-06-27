@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1782059902074,
+  "timestamp": 1782600294708,
   "index": "/azulya/index.html",
   "assetGroups": [
     {
@@ -11,10 +11,10 @@
         "ignoreVary": true
       },
       "urls": [
+        "/azulya/chunk-3ZFCU3BM.js",
         "/azulya/chunk-EVPONLZ7.js",
         "/azulya/chunk-JR6BEDLV.js",
         "/azulya/chunk-RGSH66LG.js",
-        "/azulya/chunk-SECVZ36S.js",
         "/azulya/chunk-UGJF67MY.js",
         "/azulya/chunk-VUTFMKGG.js",
         "/azulya/favicon.ico",
@@ -23,7 +23,7 @@
         "/azulya/icons/maskable-icon-192x192.png",
         "/azulya/icons/maskable-icon-512x512.png",
         "/azulya/index.html",
-        "/azulya/main-ZEZVICQE.js",
+        "/azulya/main-GDE36V3M.js",
         "/azulya/manifest-v4.webmanifest",
         "/azulya/manifest.webmanifest",
         "/azulya/polyfills-FFHMD2TL.js",
@@ -52,10 +52,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/azulya/chunk-3ZFCU3BM.js": "2bb2a0493ee334a93db69280f63492b3d92245f7",
     "/azulya/chunk-EVPONLZ7.js": "f94e13f9e55d8f256ce273841e97f3d46b7307ba",
     "/azulya/chunk-JR6BEDLV.js": "b7084f6b584e15ed1eec411488d551ede28a9c6c",
     "/azulya/chunk-RGSH66LG.js": "8a2b4d7e542951d6a2adfa3ed16320176fea5b50",
-    "/azulya/chunk-SECVZ36S.js": "56f56ecba024ef02dbe332f6dcc42033cc6b827d",
     "/azulya/chunk-UGJF67MY.js": "6ec10a80fde6b4a2a444edc0eba2381ec70a1039",
     "/azulya/chunk-VUTFMKGG.js": "a3438f4875f573c694bee683212a7c774bcfc6ad",
     "/azulya/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
@@ -70,8 +70,8 @@
     "/azulya/icons/icon-96x96.png": "30b62660d71c5bb4a91f999f8e11f0f07897bce8",
     "/azulya/icons/maskable-icon-192x192.png": "70b0163f65c70eb2ae08d2d2d8ac1784b233c7a2",
     "/azulya/icons/maskable-icon-512x512.png": "c4764ae42a9e0fa43ce03a63b37814d059785e34",
-    "/azulya/index.html": "14bdaa37f5a0e77c776dcc475cc91adf8566b8c3",
-    "/azulya/main-ZEZVICQE.js": "789246aca414ae9ce61492cd9902e3465d090c56",
+    "/azulya/index.html": "e8d7ff836ed43fbb60334971bd0745e5d5a66471",
+    "/azulya/main-GDE36V3M.js": "477834395364cfcc5fa1a121285903a0270b32db",
     "/azulya/manifest-v4.webmanifest": "91a1c102b1f7ae7633d09bbc0bc3834b490234b6",
     "/azulya/manifest.webmanifest": "91a1c102b1f7ae7633d09bbc0bc3834b490234b6",
     "/azulya/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
